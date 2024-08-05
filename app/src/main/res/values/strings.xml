@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ORDINARIOO_MIGUEL_RC</string>
+    <string-array name="categories_array">
+        <item>Refrescos</item>
+        <item>Sabritas</item>
+        <item>Abarrotes</item>
+        <item>Todas las categorías</item>
+    </string-array>
+</resources>
